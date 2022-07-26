@@ -16,7 +16,7 @@ After building this program, I will then advance to building the DeepFit project
 
 The program will be written in Python using the Jupyter Notebook  environment and will be comprehensive in its documentation for future reference. 
 
-The logs for this project will be maintained in the [logs.md](log.md) file. 
+The logs for this project will be maintained in the [logs.md](logs.md) file. 
 
 ## Checklist
 - [X] Create `README.md` file
