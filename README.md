@@ -31,12 +31,12 @@ The logs for this project will be maintained in the [logs.md](logs.md) file.
 - [X] Create [`README.md`](/README.md) file
   - [X] Explain purpose
   - [X] Explain approach
-- [X] Start a [`logs.md`](logs.md) file
+- [X] Start a [`logs.md`](logs.md) file for both the DeepFit clone and the pose estimation projects
   - [X] Log creating the markdown file
-- [ ] Create notebook for AI driven pose detection
-  - [ ] Setup MediaPipe library
-  - [ ] Estimate poses
-  - [ ] Extract join coordinates
-  - [ ] Calculating angles between joints
+- [X] Create notebook for AI driven pose detection
+  - [X] Setup MediaPipe library
+  - [X] Estimate poses
+  - [X] Extract joint coordinates
+  - [X] Calculating angles between joints
   - [ ] Building a counter for bicep curls
 - [ ] Create DeepFit clone
