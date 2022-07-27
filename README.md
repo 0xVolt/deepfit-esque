@@ -38,5 +38,5 @@ The logs for this project will be maintained in the [logs.md](logs.md) file.
   - [X] Estimate poses
   - [X] Extract joint coordinates
   - [X] Calculating angles between joints
-  - [ ] Building a counter for bicep curls
+  - [X] Building a counter for bicep curls
 - [ ] Create DeepFit clone
