@@ -18,3 +18,5 @@
 ---
 
 ###### Date: **27-07-2022** | Time: **13:00 - 15:00**
+1. Updated the [`pose-estimation.ipynb`](pose-estimation.ipynb) notebook with the complete program to count the number of bicep curls using logic around angles. ![](assets/27-07-22/1.png) ![](assets/27-07-22/2.png) ![](assets/27-07-22/3.png) ![](assets/27-07-22/4.png) ![](assets/27-07-22/5.png) 
+   That concludes the pose detection sub-project working with MediaPipe and OpenCV. Now, moving on to understanding the working of the DeepFit project and its component libraries.  
