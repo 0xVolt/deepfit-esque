@@ -21,3 +21,4 @@
 1. Updated the [`pose-estimation.ipynb`](pose-estimation.ipynb) notebook with the complete program to count the number of bicep curls using logic around angles. ![](assets/27-07-22/1.png) ![](assets/27-07-22/2.png) ![](assets/27-07-22/3.png) ![](assets/27-07-22/4.png) ![](assets/27-07-22/5.png) 
    This concludes the pose detection sub-project aimed at understanding MediaPipe and OpenCV.  
 2. Updated the checklist in the [`README.md`](README.md) file. ![](/assets/27-07-22/6.png)
+3. Pushed changes to the GitHub repository after all the above changes have been made. I did this to ensure that no data is lost when attempting to build a clone of the DeepFit project. Here is what the main branch looks like after the changes have been pushed. ![](assets/27-07-22/7.png)
