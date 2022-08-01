@@ -1,9 +1,9 @@
-# 1. AI Driven Pose Detection
+# AI Driven Pose Detection
 
 ---
 
 ## 1.1. Table of contents
-- [1. AI Driven Pose Detection](#1-ai-driven-pose-detection)
+- [AI Driven Pose Detection](#ai-driven-pose-detection)
   - [1.1. Table of contents](#11-table-of-contents)
   - [1.2. About this repository](#12-about-this-repository)
   - [1.3. The Approach](#13-the-approach)
