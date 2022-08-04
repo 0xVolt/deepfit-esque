@@ -3,9 +3,9 @@
 
 ## Author Details
 ###### Name: **Desh Iyer**
-###### Identifiers: **Programming a DeepFit Clone & Creating**
-###### File Name: [**deepfit.ipynb**](/deepfit.ipynb)
-###### Script Name: [**deepfit.ipynb**](/deepfit.ipynb)
+###### Identifiers: **Programming a DeepFit Clone**
+###### File Name: [`pose-estimation.ipynb`](/pose-estimation.ipynb)
+###### Script Name: [`pose-estimation.ipynb`](/pose-estimation.ipynb)
 
 ---
 
